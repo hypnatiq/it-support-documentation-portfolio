@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33848268/README.md)
 # IT Support Documentation Portfolio
 
 Sanitized, vendor-neutral support documentation by Hanzley Philippeaux.
