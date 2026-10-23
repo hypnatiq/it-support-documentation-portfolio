@@ -2,7 +2,9 @@
 
 Sanitized, vendor-neutral support documentation by Hanzley Philippeaux.
 
-This portfolio shows how I organize technical support work around scope, evidence, safe changes, communication, validation, and escalation. The documents were reconstructed from my own support-writing methods and incident notes. Employer, customer, employee, credential, account, device, network, ticket, and internal-system details were removed.
+This portfolio shows how I approach technical support work: confirm the scope, gather evidence, start with the safest useful check, change one condition at a time, validate the user's original issue, and escalate with clear notes when the work reaches my access or responsibility limits.
+
+The documents were rebuilt from my own support-writing methods and incident notes. Employer, customer, employee, credential, account, device, network, ticket, and internal-system details were removed.
 
 ## Portfolio contents
 
@@ -20,26 +22,24 @@ This portfolio shows how I organize technical support work around scope, evidenc
 
 - [Anonymized Network Connectivity Incident](case-studies/anonymized-network-connectivity-incident.md)
 
-## How the documents are structured
+## How I structure the work
 
-Each technical guide uses the same support pattern:
-
-1. Confirm scope and impact.
+1. Confirm the scope and impact.
 2. Capture a safe baseline.
-3. Start with the least disruptive check.
+3. Start with the least disruptive useful check.
 4. Change one condition at a time.
 5. Record the result after each change.
-6. Escalate with evidence when authority or scope ends.
-7. Validate the original user workflow, not only an intermediate signal.
+6. Escalate with evidence when access, authority, or scope ends.
+7. Validate the user's original workflow, not only an intermediate signal.
 8. Document rollback, ownership, and follow-up.
 
-## Evidence and experience boundary
+## Experience boundary
 
 - These are portfolio reconstructions, not copies of an employer knowledge base.
-- The incident case study is based on a real troubleshooting approach but is anonymized and simplified.
-- Product names appear only when needed to cite public vendor documentation.
-- Example addresses use documentation-only ranges where an address is necessary.
-- No document grants authority to bypass access controls, alter security policy, or make an unapproved production change.
+- The incident case study uses a real troubleshooting approach but is anonymized and simplified.
+- Product names appear only when they are needed to cite public vendor documentation.
+- Example addresses use documentation-only ranges when an address is necessary.
+- Nothing in this portfolio authorizes bypassing access controls, changing security policy, or making an unapproved production change.
 
 ## Author
 
