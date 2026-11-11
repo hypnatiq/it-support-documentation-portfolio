@@ -14,7 +14,7 @@ Use this runbook to isolate an unavailable camera or recording view across five 
 - Avoid power cycling a recorder during an active export, update, disk rebuild, investigation, or critical recording window.
 - Do not expose camera or recorder interfaces directly to the public internet.
 
-## 1. Define scope and impact
+## 1. Define what is affected and the impact
 
 Record:
 
@@ -94,7 +94,7 @@ Confirm:
 
 ## Escalation package
 
-Provide the sanitized device role, model, firmware, recorder version, timestamps, scope, error, physical and network tests, log findings, changes, rollback status, and whether recording or only viewing is affected.
+Provide the sanitized device role, model, firmware, recorder version, timestamps, affected users and systems, error, physical and network tests, log findings, changes, rollback status, and whether recording or only viewing is affected.
 
 ## Authoritative references
 
