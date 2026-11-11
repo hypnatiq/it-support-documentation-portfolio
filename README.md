@@ -1,6 +1,6 @@
 # IT Support Documentation Portfolio
 
-I built this portfolio to show how I document support work so another technician can continue without starting over. The method is direct: confirm the scope, gather evidence, start with the safest useful check, change one condition at a time, validate the user's original issue, and escalate with clear notes when the work reaches my access or responsibility limits.
+I built this portfolio to show how I document support work so another technician can continue without starting over. The method is direct: confirm what is affected, gather evidence, start with the safest useful check, change one condition at a time, validate the user's original issue, and escalate with clear notes when the work reaches my access or responsibility limits.
 
 The documents were rebuilt from my own support-writing methods and incident notes. Employer, customer, employee, credential, account, device, network, ticket, and internal-system details were removed.
 
@@ -28,12 +28,12 @@ The main goal is simple: another technician should be able to follow the evidenc
 
 ## How I structure the work
 
-1. Confirm the scope and impact.
+1. Confirm the affected users and systems, then document the impact.
 2. Capture a safe baseline.
 3. Start with the least disruptive useful check.
 4. Change one condition at a time.
 5. Record the result after each change.
-6. Escalate with evidence when access, authority, or scope ends.
+6. Escalate with evidence when access, authority, or responsibility ends.
 7. Validate the user's original workflow, not only an intermediate signal.
 8. Document rollback, ownership, and follow-up.
 
@@ -53,7 +53,7 @@ The main goal is simple: another technician should be able to follow the evidenc
 
 ## Author
 
-Hanzley Philippeaux  
+Hanzley Philippeaux
 GitHub identity: Hypnatiq
 
 Copyright 2026 Hanzley Philippeaux. See [LICENSE.md](LICENSE.md) and [SECURITY.md](SECURITY.md).
