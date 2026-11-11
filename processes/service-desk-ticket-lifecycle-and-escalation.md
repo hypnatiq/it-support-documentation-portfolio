@@ -14,7 +14,7 @@ Required intake fields:
 - Requester and contact channel
 - Affected service, device, or location using approved inventory values
 - Start time, last-known good time, and time zone
-- Scope, impact, urgency, and business consequence
+- Affected users and systems, impact, urgency, and business consequence
 - Exact error and reproduction steps
 - Current workaround, if any
 
@@ -73,7 +73,7 @@ Escalate when the issue requires different authority, tooling, ownership, or exp
 
 Before reassignment:
 
-- Confirm scope and priority.
+- Confirm what is affected and set the priority.
 - Complete safe first-line checks.
 - Record evidence and results.
 - State the specific reason for escalation.
@@ -116,7 +116,7 @@ Do not state a root cause when evidence supports only correlation or temporary r
 ## Quality checklist
 
 - One clear issue and owner
-- Accurate scope and priority
+- Accurate impact and priority
 - No secrets or unnecessary personal data
 - Chronological evidence
 - Changes separated from observations
