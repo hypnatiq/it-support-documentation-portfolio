@@ -1,14 +1,12 @@
 # IT Support Documentation Portfolio
 
-Sanitized, vendor-neutral support documentation by Hanzley Philippeaux.
-
-This portfolio shows how I approach technical support work: confirm the scope, gather evidence, start with the safest useful check, change one condition at a time, validate the user's original issue, and escalate with clear notes when the work reaches my access or responsibility limits.
+I built this portfolio to show how I document support work so another technician can continue without starting over. The method is direct: confirm the scope, gather evidence, start with the safest useful check, change one condition at a time, validate the user's original issue, and escalate with clear notes when the work reaches my access or responsibility limits.
 
 The documents were rebuilt from my own support-writing methods and incident notes. Employer, customer, employee, credential, account, device, network, ticket, and internal-system details were removed.
 
-## Why this portfolio matters
+## Why I built it
 
-I have written knowledge-base content, documented more than 2,000 support tickets, and trained new technicians. This repository shows the method behind that work without copying private employer material.
+I have written knowledge-base content, documented more than 2,000 support tickets, and trained new technicians. I rebuilt these public examples from that method without copying private employer material.
 
 The main goal is simple: another technician should be able to follow the evidence, understand what changed, know when to stop, and continue the work without starting over.
 
@@ -46,6 +44,12 @@ The main goal is simple: another technician should be able to follow the evidenc
 - Product names appear only when they are needed to cite public vendor documentation.
 - Example addresses use documentation-only ranges when an address is necessary.
 - Nothing in this portfolio authorizes bypassing access controls, changing security policy, or making an unapproved production change.
+
+## Where to start
+
+1. Read the anonymized connectivity incident to see the full observation, change, result, and validation path.
+2. Open the guide closest to the problem you want to review.
+3. Use the service-desk standard to see how I record ownership, escalation, rollback, and closure.
 
 ## Author
 

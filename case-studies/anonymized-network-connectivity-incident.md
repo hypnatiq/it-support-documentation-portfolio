@@ -70,7 +70,7 @@ The required workflow was restored on both workstations. The consumer router rem
 - The final port map and device inventory required validation by the network owner.
 - A future change should use approved topology documentation and configuration backups rather than relying on cable color alone.
 
-## What this demonstrates
+## What I did
 
 - Remote physical-layer coordination
 - Clear distinction between observation and inference
