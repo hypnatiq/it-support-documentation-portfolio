@@ -15,7 +15,7 @@ Use this runbook to isolate a Windows printing issue without making unnecessary 
 - Capture the current printer name, connection type, port, driver, queue, and configuration before a change.
 - Keep a rollback path. A factory reset is a last resort and may erase network, scan, address-book, and security settings.
 
-## 1. Define the symptom and scope
+## 1. Define the symptom and what is affected
 
 Record:
 
@@ -53,7 +53,7 @@ Restart-Service -Name Spooler
 
 Do not manually delete spool files unless normal queue clearing and an approved spooler restart fail. Record any destructive queue action.
 
-## 4. Isolate application, user, and workstation scope
+## 4. Isolate whether the issue follows the application, user, or workstation
 
 - Print a new plain-text document from another application.
 - Test the same document type with another known-good file.
@@ -119,7 +119,7 @@ Validate the original workflow:
 - Monitoring or shared access is restored.
 - The user confirms the issue is resolved.
 
-Document the symptom, scope, evidence, changes, outcome, rollback status, and any follow-up owner.
+Document the symptom, affected users and systems, evidence, changes, outcome, rollback status, and any follow-up owner.
 
 ## Escalation package
 
@@ -128,7 +128,7 @@ Provide:
 - Device model and asset identifier, sanitized when public
 - Connection type and queue/port type
 - Exact error and timestamps
-- Scope of impact
+- Affected users and systems
 - Tests performed and results
 - Driver and firmware versions
 - Relevant event logs or spooler errors
