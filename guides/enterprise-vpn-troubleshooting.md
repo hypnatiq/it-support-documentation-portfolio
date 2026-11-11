@@ -25,7 +25,7 @@ Capture:
 
 Do not treat a client progress percentage as a universal root-cause map. Percentages and error codes vary by version, gateway, configuration, and authentication flow.
 
-## 2. Check service status and scope
+## 2. Check service status and affected users
 
 1. Review the organization’s approved status page and current incident channel.
 2. Test with a known-good account or endpoint only if policy allows.
