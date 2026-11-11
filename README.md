@@ -6,6 +6,12 @@ This portfolio shows how I approach technical support work: confirm the scope, g
 
 The documents were rebuilt from my own support-writing methods and incident notes. Employer, customer, employee, credential, account, device, network, ticket, and internal-system details were removed.
 
+## Why this portfolio matters
+
+I have written knowledge-base content, documented more than 2,000 support tickets, and trained new technicians. This repository shows the method behind that work without copying private employer material.
+
+The main goal is simple: another technician should be able to follow the evidence, understand what changed, know when to stop, and continue the work without starting over.
+
 ## Portfolio contents
 
 ### Guides
