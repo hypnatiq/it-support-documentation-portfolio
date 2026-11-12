@@ -37,10 +37,10 @@ The main goal is simple: another technician should be able to follow the evidenc
 7. Validate the user's original workflow, not only an intermediate signal.
 8. Document rollback, ownership, and follow-up.
 
-## Experience boundary
+## How I prepared the public examples
 
-- These are portfolio reconstructions, not copies of an employer knowledge base.
-- The incident case study uses a real troubleshooting approach but is anonymized and simplified.
+- I rebuilt the guides from my support-writing method instead of copying an employer knowledge base.
+- The incident case study uses the same troubleshooting approach in an anonymized, simplified example.
 - Product names appear only when they are needed to cite public vendor documentation.
 - Example addresses use documentation-only ranges when an address is necessary.
 - Nothing in this portfolio authorizes bypassing access controls, changing security policy, or making an unapproved production change.
@@ -57,3 +57,4 @@ Hanzley Philippeaux
 GitHub identity: Hypnatiq
 
 Copyright 2026 Hanzley Philippeaux. See [LICENSE.md](LICENSE.md) and [SECURITY.md](SECURITY.md).
+
